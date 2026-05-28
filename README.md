@@ -89,6 +89,7 @@ The main objectives of this project are:
 ## Dashboard Preview
 
 > Add screenshots of your dashboard here.
+<img width="1280" height="720" alt="Dashboard" src="https://github.com/user-attachments/assets/9fe0175c-0ba9-4575-bbe3-6e33c50bc9d9" />
 
 Example:
 
