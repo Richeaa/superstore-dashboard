@@ -89,16 +89,16 @@ The main objectives of this project are:
 ## Dashboard Preview
 
 1. Dahboard
-<img width="1280" height="720" alt="Dashboard" src="https://github.com/user-attachments/assets/9fe0175c-0ba9-4575-bbe3-6e33c50bc9d9" />
+ ![](Dashboard.jpeg)
 
 2. Category & Segment
-<img width="1280" height="720" alt="Category   Segment" src="https://github.com/user-attachments/assets/4786b33c-d2b3-438e-a64b-d66233477a29" />
+ ![](Category & Segment.jpeg)
 
 3. State
-<img width="1280" height="720" alt="State" src="https://github.com/user-attachments/assets/e6dd63a3-59e2-4c70-8156-00dc26d5025a" />
+ ![](State.jpeg)
 
 4. Product
-<img width="1280" height="720" alt="Product" src="https://github.com/user-attachments/assets/66012123-340b-4f4f-8bc6-4854e8910c62" />
+ ![](Product.jpeg)
 
 ---
 
