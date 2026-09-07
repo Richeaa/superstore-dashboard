@@ -92,7 +92,7 @@ The main objectives of this project are:
  ![](Dashboard.jpeg)
 
 2. Category & Segment
- ![](Category & Segment.jpeg)
+ ![](Category&Segment.jpeg)
 
 3. State
  ![](State.jpeg)
